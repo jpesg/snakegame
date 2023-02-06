@@ -27,6 +27,7 @@ function foodLocation(){
   console.log('X: ');
   console.log(x);
   console.log('W: ');
+  //probando
   console.log(w);
   food = createVector(x, y);
 }
